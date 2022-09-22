@@ -1,0 +1,75 @@
+.nav-link{
+  color: black;
+  text-decoration: none;
+ padding-left: 0.9;
+ font-size: 1.25em;
+}
+
+.nav-bar{
+  border: 1px solid black;
+  background-color: white;
+  text-align: end;
+  background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
+.name{
+  text-align: left;
+  max-width: 250px;
+  font-weight: bold;
+  font-size: 1.6em;
+}
+
+a:hover {
+  color:darkblue
+}
+.quote{
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: x-large;
+}
+
+.BasketballP{
+  font-size: 2em;
+  padding: 20px 40px 40px;
+  font-family: 'Heebo', sans-serif;
+}
+p {
+  border-top: 2px solid black;
+}
+
+.hoop{
+  width: 150px;
+  height: 150px;
+  padding-bottom: 25px;
+}
+.pika{
+  float: right;
+}
+.gamerP{
+  font-size: 2em;
+  font-family: 'Heebo', sans-serif;
+}
+body{
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);;
+}
+
+.Proj1{
+  border: none;
+  text-align: center;
+  font-size: 25px;
+}
+
+section{
+  margin-top: 10px;
+  border: 3px solid black;
+  padding-left: 2em;
+}
+.Projecthead{
+  font-weight: bolder;
+  font-size: 25px;
+  border-bottom: 2px solid black;
+  font-family: 'Archivo Black', sans-serif;
+}
+h2{
+  font-size: 35px;
+  font-weight: bolder;
+}
