@@ -100,4 +100,13 @@ footer{
   width: 20%;
   height: 20%;
 }
-
+.pikachu{
+  display: flex;
+  float: right;
+}
+.Proj2{
+  text-align: right;
+}
+.academy{
+  font-weight: bold;
+}
