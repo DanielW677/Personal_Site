@@ -8,7 +8,7 @@
 }
 
 .nav-bar{
-  border: 1px solid black;
+  border: 1px solid lightblue;
   background-color: white;
   text-align: end;
   background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
@@ -27,6 +27,7 @@ a:hover {
   text-align: center;
   font-family: 'Merriweather', serif;
   font-size: x-large;
+  border: none;
 }
 
 .BasketballP{
@@ -50,6 +51,7 @@ p {
   font-size: 2em;
   font-family: 'Heebo', sans-serif;
 }
+/* gradient generator from https://www.colorzilla.com/gradient-editor/ */
 body{
 background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);;
 min-height: 100vh;
@@ -91,4 +93,11 @@ h2{
 }
 footer{
   margin-top: auto;
+  border-top: 1px solid pink;
+  align-self: flex-end;
 }
+.Code-img{
+  width: 20%;
+  height: 20%;
+}
+
